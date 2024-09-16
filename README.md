@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YourAbhay
-- 👀 I’m interested in programming.lots of languages 
+- 👀 I’m interested in programming a lots of languages 
 - 🌱 I’m currently learning react js.
 - 😄 Pronouns: A K
 - ⚡ Fun fact: i am not a funny guy.
